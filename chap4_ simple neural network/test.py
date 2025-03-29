@@ -35,7 +35,7 @@ def mse_loss(y_pred, y_true):
 
 # 训练配置
 learning_rate = 0.001
-epochs = 1000000
+epochs = 500000
 
 # 训练循环
 for epoch in range(epochs):
